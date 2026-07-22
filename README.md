@@ -1,4 +1,4 @@
-# Local AI Debate Simulator 🗣️🤖⚖️
+# Local AI Debate Simulator 
 
 An autonomous multi-agent debate and synthesis simulator built using **LangGraph**, **LangChain**, and **LM Studio**. It pits opposing AI personas (an extreme technological optimist and a skeptical systems architect) against each other in automated turn-taking rounds, followed by an objective moderator synthesis—all running 100% offline and locally.
 
