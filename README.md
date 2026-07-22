@@ -18,5 +18,5 @@ An autonomous multi-agent debate and synthesis simulator built using **LangGraph
 * **Runtime:** Python 3.9+ / Virtual Environment (`venv`)
 * **Local Inference:** LM Studio (compatible with OpenAI-spec local endpoints)
 
----
+
 
